@@ -25,5 +25,3 @@ function merge(leftArr, rightArr) {
 
 const arr = [4, 22, -6, 10, 5, 12];
 console.log(mergeSort(arr));
-
-module.exports = mergeSort(arr);
