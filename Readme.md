@@ -1,13 +1,11 @@
 ### **DSA in JS**
 
-
 > run the specific algorithm
 
+```js
 
-```js 
+npm i nodemon
 
-npm i -g nodemon
-
-npx nodemon bubbleSort.js 
+npx nodemon bubbleSort.js
 
 ```
