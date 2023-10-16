@@ -4,7 +4,7 @@
   "description": "> run the specific algorithm",
   "main": "binarySearch.js",
   "scripts": {
-    "dev": "npm i nodemon && nodemon index.js"
+    "dev": "npm i nodemon"
   },
   "keywords": [],
   "author": "",
